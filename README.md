@@ -54,7 +54,7 @@ In all of the places where you're supposed to fill your information you'll find 
         <span>MOONWATCH</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Game Developer based in a place I am not going to tell you about.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
