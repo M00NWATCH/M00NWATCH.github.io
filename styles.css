@@ -96,18 +96,30 @@ body {
 }
 
 .gallery-item {
-  display: flex;
-  flex-direction: column;
-  background: #2d2844;
-  border-radius: 4px;
-  overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background: #2d2844;
+    border-radius: 32px;
+    border-width: 4px;
+    overflow: hidden;
+    border-color: #A89FC9;
+    border-style: ridge;
+    transition-duration:0.25s;
 }
+
+    .gallery-item:hover {
+        border-radius: 12px;
+    }
 
 .gallery-image {
   height: 240px;
   background: #4a4366;
   background-size: cover;
   background-position: center;
+}
+
+.gallery-image:hover ~ .gallery-link {
+    background: #4a4366;
 }
 
 .gallery-link {
