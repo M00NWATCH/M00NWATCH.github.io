@@ -99,7 +99,7 @@ body {
     display: flex;
     flex-direction: column;
     background: #2d2844;
-    border-radius: 32px;
+    border-radius: 34px;
     border-width: 4px;
     overflow: hidden;
     border-color: #A89FC9;
@@ -108,7 +108,7 @@ body {
 }
 
     .gallery-item:hover {
-        border-radius: 12px;
+        border-radius: 14px;
     }
 
 .gallery-image {
