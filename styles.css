@@ -107,9 +107,9 @@ body {
     transition-duration:0.25s;
 }
 
-    .gallery-item:hover {
-        border-radius: 14px;
-    }
+.gallery-item:hover {
+    border-radius: 14px;
+}
 
 .gallery-image {
   height: 240px;
